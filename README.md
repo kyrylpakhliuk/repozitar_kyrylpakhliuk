@@ -1,1 +1,3 @@
-# repozitar_kyrylpakhliuk
+# Stránka s nápojovým automatem
+Bootstrap
+HTMLS
